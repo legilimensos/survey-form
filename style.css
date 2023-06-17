@@ -1,0 +1,66 @@
+
+*{
+    background-color: black;
+    scroll-behavior: smooth;
+    transition: 1s;
+}
+.box{
+    width: 190vh;
+    height: 90vh;
+    background-color: #303030;
+    position: relative;
+    top: 7vh;
+    left: 7vh;
+    border-radius: 6vh;
+}
+.heading{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    top: -15vh;
+    font-size: 10vh;
+    position: relative;
+}
+.name{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    top: -10vh;
+    font-size: 4vh;
+    background-color: transparent;
+    position: relative;
+    left: 36%;
+    margin-bottom: 6vh;
+}
+.inp{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    top: -10vh;
+    font-size: 4vh;
+    background-color: transparent;
+    position: relative;
+    left: 36%;
+    margin-bottom: 6vh;
+    border-radius: 6vh;
+    margin-left: 3vh;
+    padding: 1vh;
+}
+.sub{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    top: -5vh;
+    font-size: 4vh;
+    background-color: transparent;
+    position: relative;
+    left: 44%;
+    margin-bottom: 6vh;
+    border-radius: 6vh;
+    margin-left: 3vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+.sub:hover{
+    background-color: #5c5b5b;
+}
